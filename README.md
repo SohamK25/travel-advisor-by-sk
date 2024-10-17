@@ -8,3 +8,4 @@
 ### Project is created using React and Google Map API and Travel Advisor API
 
 ### Link : https://travel-advisor-by-sk.netlify.app/
+### Link : https://place-advisor.netlify.app/(maps api)
